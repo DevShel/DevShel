@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👨‍💻 AI/ML Engineer | Social Impact Technologist
 
-<!--
-**DevShel/DevShel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building technology at the intersection of social good, software engineering, and responsible AI. Currently pursuing a BS in Computer Science with a Machine Learning specialization at the University of Maryland.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- AI research as part of UMD's [DARPA Triage Challenge Team] (https://roboscout.umd.edu/)
+- Leading [Hack4Impact-UMD](https://github.com/hack4impact-umd) as Co-Executive Director, building free open-source software for nonprofits
+- Personal projects (see shel.io for more info)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- University of Maryland DARPA Project AI Researcher
+- Microsoft Hack4Good Engineer
+- AWS Software Development Engineer Intern
+- Oracle, Lockheed Martin, and Icomera US Internships
+
+### 🌱 Interests
+- Responsible AI and benchmarking LLMs/VLMs
+- ML/AI applied for social good
+- Full-stack software engineering
+
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShel&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevShel&theme=radical)
