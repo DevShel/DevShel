@@ -7,12 +7,6 @@ I'm passionate about building technology at the intersection of social good, sof
 - Leading [Hack4Impact-UMD](https://github.com/hack4impact-umd) as Co-Executive Director, building free open-source software for nonprofits
 - Personal projects (see shel.io for more info)
 
-### 💼 Experience
-- University of Maryland DARPA Project AI Researcher
-- Microsoft Hack4Good Engineer
-- AWS Software Development Engineer Intern
-- Oracle, Lockheed Martin, and Icomera US Internships
-
 ### 🌱 Interests
 - Responsible AI and benchmarking LLMs/VLMs
 - ML/AI applied for social good
@@ -20,6 +14,6 @@ I'm passionate about building technology at the intersection of social good, sof
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShel&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShel&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevShel&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevShel&theme=radical)
+
