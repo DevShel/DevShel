@@ -6,6 +6,6 @@ I'm passionate about building technology at the intersection of social good, sof
 - Leading [Hack4Impact-UMD](https://github.com/hack4impact-umd) as Co-Executive Director, building free open-source software for nonprofits
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShel&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevShel&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShel&layout=compact&theme=radical) &nbsp;&nbsp;&nbsp; ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevShel&theme=radical)
 
 
