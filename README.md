@@ -1,5 +1,5 @@
 ## 👨‍💻 Hi, I'm Sheldon!
-I'm passionate about building technology at the intersection of social good, software engineering, and responsible AI. Currently pursuing a BS in Computer Science with a Machine Learning specialization at the University of Maryland.
+I'm passionate about building technology at the intersection of social good, software engineering, and responsible AI. I recently received a BS in Computer Science with a specialization in machine learning from the University of Maryland!
 
 ### 🔭 Currently Working On
 - Working at Meta on an audio ML pipeline
